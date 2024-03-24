@@ -42,8 +42,6 @@ Highly skilled software development professional bringing enormous talents for s
     <img alt="GraphQL" title="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white"/>
     <img alt="TailwindCSS" title="TailwindCSS" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
     <img alt="Vite" title="Vite" src="https://img.shields.io/badge/Vite-B73BFE.svg?style=for-the-badge&logo=vite&logoColor=FFD62E"/>
-    <img alt="Styled Components" title="Styled Components" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
-    <img alt="Jest" title="Jest" src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white"/>
         <img alt="Node.js" title="Node.js" src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
    <img alt="HTML5" title="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
     <img alt="CSS3" title="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -53,7 +51,10 @@ Highly skilled software development professional bringing enormous talents for s
 <img alt="Prisma" title="Prisma" src="https://img.shields.io/badge/Prisma-3982CE.svg?style=for-the-badge&logo=Prisma&logoColor=white"/>
 <img alt="HubSpot" title="HubSpot" src="https://img.shields.io/badge/HubSpot-FF7A59.svg?style=for-the-badge&logo=HubSpot&logoColor=white"/>
 <img alt="React Native" title="React Native" src="https://img.shields.io/badge/React_Native-20232A.svg?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-
+<img alt="Three.js" title="Three.js" src="https://img.shields.io/badge/Three.js-000000.svg?style=for-the-badge&logo=threedotjs&logoColor=white"/>
+<img alt="MeteorJS" title="MeteorJS" src="https://img.shields.io/badge/Meteor-DE4F4F.svg?style=for-the-badge&logo=meteor&logoColor=white"/>
+<img alt="Styled Components" title="Styled Components" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/>
+    <img alt="Jest" title="Jest" src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white"/>
 </div>
 
 ---
