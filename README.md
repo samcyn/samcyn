@@ -21,11 +21,11 @@ Highly skilled software development professional bringing enormous talents for s
 </a>
     <a href="https://github.com/samcyn?tab=followers">
         <img alt="GitHub followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/samcyn?color=14161e&labelColor=14161e&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/>
-            <a href="https://github.com/samcyn?tab=repositories&sort=stargazers">
+    </a>
+   <a href="https://github.com/samcyn?tab=repositories&sort=stargazers">
         <img alt="GitHub stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/samcyn?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/>
     </a>
 </p>
-
 
 ---
 
