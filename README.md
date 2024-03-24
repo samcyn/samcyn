@@ -16,7 +16,7 @@ Highly skilled software development professional bringing enormous talents for s
         <a href="mailto:samsoniyanda@outlook.com">
     <img alt="Email" title="Email me" src="https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=Gmail&logoColor=white"/>
 </a>
-        <a href="https://twitter.com/samcyn007">
+        <a href="https://twitter.com/@Jide_Cares">
     <img alt="Twitter" title="Follow me on Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>
 </a>
     <a href="https://github.com/samcyn?tab=followers">
