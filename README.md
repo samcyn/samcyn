@@ -24,3 +24,4 @@ writing code and developing systems for a wide range of applications.
     <div style="background-color: #f0f0f0; padding: 20px;">Content 6</div>
 </div>
 
+![Snake animation](https://github.com/samcyn/samcyn/blob/output/github-contribution-grid-snake.svg)
