@@ -1,7 +1,7 @@
 <table>
 <tr>
-<td>Software Developer</td>
-<td width="70%"">
+<td width="100%">Software Developer</td>
+<td width="70%">
 Highly skilled software development professional bringing enormous
 talents for software design, development and integration. Offering
 advanced knowledge of in-demand programming languages. Background
