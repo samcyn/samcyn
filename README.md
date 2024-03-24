@@ -1,4 +1,4 @@
-<p width="100%">Software Developer</p>
+<h1 width="100%">Software Developer</h1>
 <table>
 <tr>
 <td width="70%" style="border: 0; padding: 0;">
