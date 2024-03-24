@@ -14,3 +14,13 @@ writing code and developing systems for a wide range of applications.
 </td>
 </tr>
 </table>
+
+<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px;">
+    <div style="background-color: #f0f0f0; padding: 20px;">Content 1</div>
+    <div style="background-color: #f0f0f0; padding: 20px;">Content 2</div>
+    <div style="background-color: #f0f0f0; padding: 20px;">Content 3</div>
+    <div style="background-color: #f0f0f0; padding: 20px;">Content 4</div>
+    <div style="background-color: #f0f0f0; padding: 20px;">Content 5</div>
+    <div style="background-color: #f0f0f0; padding: 20px;">Content 6</div>
+</div>
+
