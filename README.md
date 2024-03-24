@@ -63,7 +63,7 @@ Highly skilled software development professional bringing enormous talents for s
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 20px;">
 <!--     <img alt="GitHub Stats" title="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=samcyn&show_icons=true&theme=gruvbox"/> -->
-    <a href="https://streak-stats.demolab.com?user=samcyn&theme=highcontrast&hide_border=true&border_radius=&card_width=700"><img src="https://streak-stats.demolab.com?user=samcyn&theme=highcontrast&hide_border=true&border_radius=&card_width=700" alt="GitHub Streak" /></a>
+    <a href="https://streak-stats.demolab.com?user=samcyn&theme=highcontrast&hide_border=true&border_radius=&card_width=700"><img src="https://streak-stats.demolab.com?user=samcyn&theme=highcontrast&hide_border=true&border_radius=&card_width=1012" alt="GitHub Streak" /></a>
 </div>
 
 <!--
