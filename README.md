@@ -1,6 +1,6 @@
+<p width="100%">Software Developer</p>
 <table>
 <tr>
-<td width="100%">Software Developer</td>
 <td width="70%">
 Highly skilled software development professional bringing enormous
 talents for software design, development and integration. Offering
