@@ -1,5 +1,5 @@
 <p width="100%">Software Developer</p>
-<table>
+<table border="2px">
 <tr>
 <td width="70%">
 Highly skilled software development professional bringing enormous
