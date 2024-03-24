@@ -1,8 +1,13 @@
 <table>
-  <thead>
-    Software Developer
-  </thead>
-  <tbody>
-  <tr>2</tr>
-  </tbody>
+<tr>
+<td width="33%"">
+The quick brown fox jumps over the lazy dog.
+</td>
+<td width="33%">
+The quick brown fox jumps over the lazy dog.
+</td>
+<td width="33%">
+The quick brown fox jumps over the lazy dog.
+</td>
+</tr>
 </table>
