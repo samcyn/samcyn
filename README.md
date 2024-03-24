@@ -1,7 +1,7 @@
 <p width="100%">Software Developer</p>
 <table>
 <tr>
-<td width="70%" border="0">
+<td width="70%" style="border: 0; padding: 0;">
 Highly skilled software development professional bringing enormous
 talents for software design, development and integration. Offering
 advanced knowledge of in-demand programming languages. Background
